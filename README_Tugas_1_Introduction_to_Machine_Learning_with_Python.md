@@ -2,7 +2,6 @@
 
 Repositori ini dibuat untuk memenuhi **Tugas 1 - Enrichment for Machine Learning and Deep Learning Classes**. Isi repositori berfokus pada reproduksi kode, catatan teori, dan ringkasan materi dari buku **Introduction to Machine Learning with Python** karya **Andreas C. Müller** dan **Sarah Guido**.
 
-> Catatan: cover buku tidak dimasukkan secara langsung ke dalam README ini. Jika diperlukan, cover dapat ditambahkan manual melalui gambar yang legal/resmi.
 
 ---
 
