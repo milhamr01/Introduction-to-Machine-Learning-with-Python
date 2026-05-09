@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+nbclient
+nbformat
+mglearn
+imageio
+graphviz
+seaborn
