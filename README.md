@@ -2,8 +2,6 @@
 
 This repository was created for **Task 1 - Enrichment for Machine Learning and Deep Learning Classes**. It contains code reproduction, theoretical explanations, chapter summaries, and executed notebooks based on the book **Introduction to Machine Learning with Python** by **Andreas C. Müller** and **Sarah Guido**.
 
-> Note: The book cover is not embedded in this README. It can be added manually later if a legal or official image source is available.
-
 ---
 
 ## Project Description
